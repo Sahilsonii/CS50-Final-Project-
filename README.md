@@ -9,7 +9,7 @@ please watch a short video [here](https://youtu.be/swXOJDQVaiM)!
 
 ## Quickstart:
 
-1. **Installation**: Download the APK from the Google Play Store or clone this repository and build it using Android Studio.
+1. **Installation**: Download the APK from the Google Play Store after I Publish or clone this repository and build it using Android Studio.
 2. **Usage**: Launch the app and start using the calculator by entering numbers and selecting operations.
 3. **Features**: The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 4. **Themes**: The app includes a dark mode theme for a more immersive experience.
